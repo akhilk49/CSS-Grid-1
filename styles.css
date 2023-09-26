@@ -1,0 +1,31 @@
+.grid-container{border: 1px solid black;
+background-color: blue;
+width: 1500px;
+height: 850px;
+padding: 10px;
+display: grid;
+grid-template-columns: repeat(3,490px);
+grid-template-rows: repeat(3,290px);
+grid-row-gap: 10px;
+grid-column-gap: 10px;
+}
+.grid-item{background-color:crimson;}
+header{text-align: center;}
+.grid-item-1{background: url(https://michigancompletestreets.files.wordpress.com/2013/11/mast-arm-hawk-signal.jpg);
+background-size: 100% 100%;}
+.grid-item-2{background: url(https://www.tustinca.org/ImageRepository/Document?documentID=392);
+background-size: 100% 100%;}
+.grid-item-3{background: url(https://i.ytimg.com/vi/_ZgDGelI58A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCX0slNS7ia9REu6WL0sei-vuuovg);
+background-size: 100% 100%;}
+.grid-item-4{background: url(https://www.marinij.com/wp-content/uploads/migration/2016/201606/NEWS_160629800_AR_0_UWZMETCTBKAC.jpg?w=1024);
+background-size: 100% 100%;}
+.grid-item-5{background: url(https://images.newindianexpress.com/uploads/user/imagelibrary/2023/3/14/w900X450/AI.jpg?w=400&dpr=2.6);
+background-size: 100% 100%;}
+.grid-item-6{background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uIFSL5Qpo4KJDqgai7T2KDc_9BIBB4DHaUdSk6xLDvNw5o-718ehIBtzXq5-MdQAS0E&usqp=CAU);
+background-size: 100% 100%;}
+.grid-item-7{background: url(https://lakewood.advocatemag.com/wp-content/uploads/2022/04/IMG_3644-600x450.jpg);
+background-size: 100% 100%;}
+.grid-item-8{background: url(https://bloximages.newyork1.vip.townnews.com/kjas.com/content/tncms/assets/v3/editorial/7/73/773412fc-6b81-11ed-954a-371ea0b2a3e8/637ea41b4e8cb.image.jpg?resize=400%2C266);
+background-size: 100% 100%;}
+.grid-item-9{background: url(https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/5/c0/5c09cb79-b787-58be-8b6e-c4943e8a47d7/63a22bc0703a0.image.jpg?resize=1024%2C692);
+background-size: 100% 100%;}
